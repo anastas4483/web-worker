@@ -1,0 +1,11 @@
+@import 'src/styles/constants.scss';
+
+.app-timer {
+  border: 5px solid $light-gray-color;
+  width: fit-content;
+  padding: 44px 16px;
+  border-radius: 50%;
+  background-color: $muted-gray-color;
+  color: $background-color;
+  font-size: 25px;
+}
